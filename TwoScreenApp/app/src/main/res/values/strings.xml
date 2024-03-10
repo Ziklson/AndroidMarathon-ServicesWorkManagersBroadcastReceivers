@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoScreenApp</string>
+    <string name="cats_fact_label">Сat facts</string>
+    <string name="service_btn_label">Service</string>
+    <string name="workmanager_btn_label">WorkManager</string>
+    <string name="select_text_label">Select how to query the network</string>
+</resources>
